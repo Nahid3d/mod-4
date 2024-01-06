@@ -1,0 +1,42 @@
+/* nav > ul{
+    display: flex;
+
+}
+nav li{
+   
+    list-style: none;
+    margin-right: 145px;
+    padding: 5px;
+
+}
+nav li > a{
+
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    transition: .4s;
+    position: absolute;
+    
+} */
+/*
+ul.dropdown {
+    display: none;
+    position: absolute; 
+} */
+/* ul li.dropdown a{
+padding-top: 30px;
+margin-top: 100px;
+margin-bottom: 100px;
+  
+}
+nav li:hover .dropdown{
+    display: block;
+} */
+/* 
+nav li a:hover{
+    color: royalblue;
+    background-color: lightblue;
+    padding: 10px 20px;
+    
+} */
